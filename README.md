@@ -1,16 +1,10 @@
 
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9929674&assignment_repo_type=AssignmentRepo)
-assignment-1-team3 created by GitHub Classroom
+
 
 
 Tac Tac Toe game is implemented as a client server 2 player game. The game was refractored to follow the MVC model. Multiple games can be
 initialized, each being a thread, with 2 players at most. The server wait for 2 players to join and only then starts the game. 
 
-Students worked on this project:
-Ayako Kuwayama
-Orhan Ozbasaran
-Aigerim Kubanychbek kyzy (commits are not seen because we needed to delete all of the commits and recopy all again because of merging issues, 
-Ayako was mainly in charge of the commits)
 
 
 Deliverables:
